@@ -26,5 +26,10 @@ namespace AbstractConsole
         {
             Console.WriteLine($"{Name} moved by {steps} steps");
         }
+        public override void MakeSound()
+        {
+            Console.WriteLine("Dog is making a sound");
+            base.MakeSound();
+        }
     }
 }

@@ -16,6 +16,8 @@ namespace AbstractConsole
             dog.MakeSound();
             dog.Move(3);
 
+            Console.WriteLine();
+
             cat.MakeSound();
             cat.Move(4);
 
