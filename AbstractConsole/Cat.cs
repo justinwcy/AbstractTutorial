@@ -5,6 +5,7 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
+// sample changes
 namespace AbstractConsole
 {
     internal class Cat:AnimalClass
