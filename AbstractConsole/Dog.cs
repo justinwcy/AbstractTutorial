@@ -8,7 +8,6 @@ using System.Threading.Tasks;
 // main changes 2
 // main changes 3
 // main changes 4
-// main changes 5
 namespace AbstractConsole
 {
     internal class Dog : AnimalClass
