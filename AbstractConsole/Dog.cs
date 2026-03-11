@@ -4,6 +4,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
+// secondary change 1
+// secondary change 2
+// secondary change 3
+// secondary change 4
 namespace AbstractConsole
 {
     internal class Dog : AnimalClass
