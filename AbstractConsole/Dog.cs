@@ -4,8 +4,6 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-// main branch changes 1
-// main branch changes 2
 namespace AbstractConsole
 {
     internal class Dog : AnimalClass
