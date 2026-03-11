@@ -5,10 +5,6 @@ using System.Runtime.InteropServices;
 using System.Text;
 using System.Threading.Tasks;
 
-// Secondary Changes 1
-// Secondary Changes 2
-// Secondary Changes 3
-// Secondary Changes 4
 namespace AbstractConsole
 {
     internal class Cat:AnimalClass
