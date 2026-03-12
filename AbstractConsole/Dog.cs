@@ -1,8 +1,5 @@
 ﻿using System;
 
-// secondary change 1
-// secondary change 2
-// secondary change 3
 namespace AbstractConsole
 {
     internal class Dog : AnimalClass
