@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 // main change 1
 // main change 2
-// main change 3
 namespace AbstractConsole
 {
     internal class Cat:AnimalClass
