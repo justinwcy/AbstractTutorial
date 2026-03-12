@@ -6,7 +6,6 @@ using System.Text;
 using System.Threading.Tasks;
 
 // main change 1
-// main change 2
 namespace AbstractConsole
 {
     internal class Cat:AnimalClass
