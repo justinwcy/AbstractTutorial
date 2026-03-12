@@ -7,11 +7,18 @@ namespace AbstractConsole
     /// </summary>
     internal class Cat : AnimalClass
     {
+        /// <summary>
+        /// Constructor for cat class
+        /// </summary>
+        /// <param name="name"></param>
         public Cat(string name)
         {
             _name = name;
         }
 
+        /// <summary>
+        /// Initiated from the constructor or can be set outside also
+        /// </summary>
         private string _name;
 
         public override string Name
