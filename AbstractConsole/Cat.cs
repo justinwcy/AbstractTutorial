@@ -1,5 +1,6 @@
 ﻿using System;
 
+// main change 1
 namespace AbstractConsole
 {
     internal class Cat:AnimalClass
