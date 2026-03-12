@@ -25,10 +25,19 @@ namespace AbstractConsole
         /// Sound that the dog makes, overriden from AnimalClass
         /// </summary>
         public override string SoundName { get; set; } = "Woof";
+
+        /// <summary>
+        /// Write in the console how much the Dog has moved
+        /// </summary>
+        /// <param name="steps"></param>
         public override void Move(int steps)
         {
             Console.WriteLine($"{Name} moved by {steps} steps");
         }
+
+        /// <summary>
+        /// Write in console what sounds did the dog make
+        /// </summary>
         public override void MakeSound()
         {
             Console.WriteLine("Dog is making a sound");
