@@ -1,12 +1,13 @@
 ﻿using System;
 
-// secondary change 1
-// secondary change 2
-// secondary change 3
 namespace AbstractConsole
 {
     internal class Dog : AnimalClass
     {
+        /// <summary>
+        /// Constructor
+        /// </summary>
+        /// <param name="name"></param>
         public Dog(string name)
         {
             _name = name;
@@ -20,6 +21,9 @@ namespace AbstractConsole
             set => _name = value;
         }
 
+        /// <summary>
+        /// Sound that the dog makes, overriden from AnimalClass
+        /// </summary>
         public override string SoundName { get; set; } = "Woof";
         public override void Move(int steps)
         {
