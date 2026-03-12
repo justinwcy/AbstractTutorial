@@ -2,6 +2,9 @@
 
 namespace AbstractConsole
 {
+    /// <summary>
+    /// Cat class
+    /// </summary>
     internal class Cat : AnimalClass
     {
         public Cat(string name)
