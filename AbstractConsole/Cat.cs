@@ -1,10 +1,8 @@
 ﻿using System;
 
-// main change 1
-// main change 2
 namespace AbstractConsole
 {
-    internal class Cat:AnimalClass
+    internal class Cat : AnimalClass
     {
         public Cat(string name)
         {
